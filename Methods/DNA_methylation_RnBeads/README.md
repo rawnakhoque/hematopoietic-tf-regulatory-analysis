@@ -14,4 +14,12 @@ These scripts include:
 
 These scripts were developed by team members responsible for the DNA methylation component of the project and are included here to preserve the complete computational workflow.
 
-My contribution to this project focused on the downstream transcription factor motif enrichment analysis using HOMER and the integration of DNA methylation and RNA-seq results, described in the `methods/tf_motif_enrichment/` directory.
+My contribution to this project focused on the downstream transcription factor motif enrichment analysis using HOMER and the integration of DNA methylation and RNA-seq results, described in the `Methods/tf_motif_enrichment/` directory.
+
+## Integration with RNA-seq analysis
+
+The methylation analysis workflow identified genes associated with hypomethylated regulatory regions, including promoter and enhancer regions.
+
+These methylation-associated gene lists were integrated with RNA-seq expression profiles from normal hematopoietic progenitor populations to identify genes showing coordinated epigenetic activation and transcriptional upregulation.
+
+The resulting gene sets were used as input for downstream transcription factor analysis, including HOMER motif enrichment analysis to identify candidate regulatory factors involved in hematopoietic differentiation.
