@@ -1,4 +1,4 @@
-# Transcription Factor Motif Enrichment and Clustering
+# Transcription Factor Motif Enrichment and TF Expression Analysis
 
 ## Overview
 
