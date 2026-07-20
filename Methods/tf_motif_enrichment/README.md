@@ -96,7 +96,8 @@ Data/
 └── RNAseq_Leukemia_samples/
 ```
 
-TF motif enrichment input regions were generated from:
+TF motif enrichment input regions were generated from DNA methylation and methylation-expression integration analyses:
+
 
 ```
 Results/
